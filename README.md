@@ -78,3 +78,9 @@ hyperledger composer
     "timestamp": "2018-10-10T06:54:43.514Z"
   }
 ]
+
+查询
+[
+  null
+]
+
